@@ -1,6 +1,6 @@
 # LearnSmart AI
 
-A responsive adaptive-learning MVP for Mathematics. This is a fresh, editable implementation inspired by the requirements shared in the project brief; it is **not the original source code exported from the Base44 website**.
+A responsive adaptive-learning MVP for Mathematics. This is a fresh, editable implementation inspired by the requirements shared in the project brief;
 
 ## Features
 - Student dashboard with topic strengths and weaknesses
